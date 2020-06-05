@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\repo\\temp-testing-icon\\Portal\\Sync\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec.csproj": {}
+  },
+  "projects": {
+    "D:\\repo\\temp-testing-icon\\Portal\\Sync\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repo\\temp-testing-icon\\Portal\\Sync\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec.csproj",
+        "projectName": "Maintel.Icon.Portal.Sync.AutotaskAPI.Spec",
+        "projectPath": "D:\\repo\\temp-testing-icon\\Portal\\Sync\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec.csproj",
+        "packagesPath": "C:\\Users\\parag.newalker\\.nuget\\packages\\",
+        "outputPath": "D:\\repo\\temp-testing-icon\\Portal\\Sync\\Maintel.Icon.Portal.Sync.AutotaskAPI.Spec\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\parag.newalker\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.188, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.0.188, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.0.188, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
